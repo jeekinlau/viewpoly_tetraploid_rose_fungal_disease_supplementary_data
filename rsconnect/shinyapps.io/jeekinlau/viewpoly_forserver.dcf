@@ -1,0 +1,13 @@
+name: viewpoly_forserver
+title: viewpoly_forserver
+username:
+account: jeekinlau
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6787227
+bundleId: 6203202
+url: https://jeekinlau.shinyapps.io/viewpoly_forserver/
+when: 1660578584.76642
+lastSyncTime: 1660578584.76642
+asMultiple: FALSE
+asStatic: FALSE
