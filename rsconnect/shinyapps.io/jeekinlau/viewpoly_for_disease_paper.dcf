@@ -1,0 +1,13 @@
+name: viewpoly_for_disease_paper
+title: viewpoly_for_disease_paper
+username:
+account: jeekinlau
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6807900
+bundleId: 6215689
+url: https://jeekinlau.shinyapps.io/viewpoly_for_disease_paper/
+when: 1660860396.82752
+lastSyncTime: 1660860396.82752
+asMultiple: FALSE
+asStatic: FALSE
