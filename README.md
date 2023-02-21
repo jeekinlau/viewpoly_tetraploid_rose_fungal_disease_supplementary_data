@@ -10,7 +10,10 @@ This is a modified version of VIEWpoly specifically used to display suppplementa
 ______________________________
 
 # How to use this site
-To view the supplementary data in this implementation of VIEWpoly please do the following:    
+To view the supplementary data in this implementation of VIEWpoly please do the following:  
+1. If you have devtools already installed you can skip the first line.
+2. Use devtools install_github() to install this specific verion of VIEWpoly.
+3. To run the customized version of VIEWpoly please run third line of code.  
 
 ```
 install.packages("devtools")
