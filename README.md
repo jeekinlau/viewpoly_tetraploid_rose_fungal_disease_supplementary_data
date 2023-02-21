@@ -15,3 +15,5 @@ To view the supplementary data in this implementation of VIEWpoly please do the 
 2. Open the app.R file in the root directory in Rstudio
 3. Click the run app button 
 
+# Other way to access the supplementary data:
+This is another way to explore the supplementary data on shinyapps.io however, there is limited to 10 hours of server time per month thus if many people use this method the shiny app will not run http://jeekinlau.shinyapps.io/viewpoly_for_disease_paper
