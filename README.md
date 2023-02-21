@@ -11,6 +11,15 @@ devtools::install_github("jeekinlau/viewpoly_tetraploid_rose_disease_paper_suppl
 viewpoly::run_app()
 ```
 
+## Pick which mapping population to look at
+
+## Pick which chromosomes and which traits to look at
+
+## Explore parental haplotype effects
+
+
+
+
 # Other way to access the supplementary data:
 This is another way to explore the supplementary data on shinyapps.io however, there is limited to 10 hours of server time per month thus if many people use this method the shiny app will not run http://jeekinlau.shinyapps.io/viewpoly_for_disease_paper
 
