@@ -21,7 +21,7 @@ From the QTL tab you can select the linkage groups you want to explore and the p
 
 ## Explore parental haplotype effects
 If you want to inspect a few QTL or just one QTL highlight the QTL on the QTL profile by selecting a box around the triangles (the QTL peaks) and open up the effects dropdown to view the parental homolog effects.    
-<img src="www/explore_QTL.jpg" width = "600">
+<img src="www/explore_homolog_effect.jpg" width = "600">
 
 
 # Other way to access the supplementary data:
