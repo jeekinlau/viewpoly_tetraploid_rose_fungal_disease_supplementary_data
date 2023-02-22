@@ -12,7 +12,8 @@ viewpoly::run_app()
 ```
 
 ## Pick which mapping population to look at
-
+From the Input data tab, you can choose which mapping population you want to look at.
+<img src=../www/change_population.jpg>
 ## Pick which chromosomes and which traits to look at
 
 ## Explore parental haplotype effects
