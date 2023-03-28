@@ -26,7 +26,7 @@ If you want to inspect a few QTL or just one QTL highlight the QTL on the QTL pr
 <img src="www/explore_homolog_effect.jpg" width = "600">
 
 ## Select individuals with haplotypes of interest
-After looking at the parental homolog effects, you can use the "Progeny Haplotypes" section to select or exclude any parental homologs at QTL positions and you get in return a list of progeny with or without parental alleles of interest.
+After looking at the parental homolog effects, you can use the "Progeny Haplotypes" section to select or exclude any parental homologs at QTL positions and you get in return a list of progeny with or without parental alleles of interest.        
 <img src="www/select_haplotypes.jpg" width = "600">
 
 # Other way to access the supplementary data:
