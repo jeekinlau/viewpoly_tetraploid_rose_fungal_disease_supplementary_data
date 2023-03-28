@@ -1,5 +1,7 @@
 
 # How to view the Supplementary data
+This is an R shiny app:
+
 To view the supplementary data in this implementation of VIEWpoly please do the following:  
 1. If you have devtools already installed you can skip the first line.
 2. Use devtools install_github() to install this specific verion of VIEWpoly.
@@ -23,6 +25,9 @@ From the QTL tab you can select the linkage groups you want to explore and the p
 If you want to inspect a few QTL or just one QTL highlight the QTL on the QTL profile by selecting a box around the triangles (the QTL peaks) and open up the effects dropdown to view the parental homolog effects.    
 <img src="www/explore_homolog_effect.jpg" width = "600">
 
+## Select individuals with haplotypes of interest
+After looking at the parental homolog effects, you can use the "Progeny Haplotypes" section to select or exclude any parental homologs at QTL positions and you get in return a list of progeny with or without parental alleles of interest.
+<img src="www/select_haplotypes.jpg" width = "600">
 
 # Other way to access the supplementary data:
 This is another way to explore the supplementary data on shinyapps.io however, there is limited to 10 hours of server time per month thus if many people use this method the shiny app will not run http://jeekinlau.shinyapps.io/viewpoly_for_disease_paper
